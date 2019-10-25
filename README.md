@@ -1,1 +1,1 @@
-# recept_adatbazis
+# recept adatbázis
